@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+#IDparrafo3{
+    color:burlywood
+}
+
+
+.texto-color-green{
+    color:rgb(6, 87, 6);
+    font-weight: 100; 
+}
+
+.texto-color-green:hover{
+    color:rgb(209, 228, 85);
+    font-weight: 100; 
+}
